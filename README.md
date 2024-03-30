@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my personal portfolio.<br>Currently learning React JS, Spring Boot.<br>Machine Learning and Data Science enthusiast.<br>Open to collaborate on web development projects.
+I'm currently working on my personal portfolio.<br>Currently learning React JS and Laravel.<br>Open to collaborate on web development projects.
 
 
 # 💻 Tech Stack:
